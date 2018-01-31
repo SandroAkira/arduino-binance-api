@@ -6,7 +6,7 @@ The Binance API can be used to look information on a wide range of crypto curren
 
 ## Usage
 
-The simplest way to see how it works is the check out [the example that comes with the library](https://github.com/witnessmenow/arduino-binance-api/tree/master/examples/ESP8266/GetTickerInfo).
+The simplest way to see how it works is the check out [the example that comes with the library](https://github.com/SandroAkira/arduino-binance-api/blob/master/examples/ESP8266/GetTickerInfo/GetTickerInfo.ino).
 
 ### GetTickerInfo:
 A wrapper around the single ticker endpoint supporting the convert parameter (currency)
